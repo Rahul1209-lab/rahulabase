@@ -75,3 +75,4 @@ lipistick
 marriage
 lovemarriage
 kalakhatta
+kakaru
