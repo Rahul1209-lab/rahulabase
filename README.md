@@ -82,3 +82,4 @@ night
 resttime
 allokay
 kakakjiii
+buaji
