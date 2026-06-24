@@ -35,3 +35,4 @@ btc
 ethh
 solona
 wormwhole
+kitee
