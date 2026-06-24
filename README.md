@@ -34,3 +34,4 @@ kali
 btc
 ethh
 solona
+wormwhole
