@@ -69,3 +69,4 @@ vivo
 opppo
 sonubhaiya
 kabutar
+amazing
