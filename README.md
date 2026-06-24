@@ -65,3 +65,4 @@ banana
 samsung
 karinakhan
 laallll
+vivo
