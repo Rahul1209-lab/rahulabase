@@ -19,3 +19,4 @@ madhuri
 kanchan
 arpita
 ganesh
+durga
