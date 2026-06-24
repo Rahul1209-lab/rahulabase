@@ -86,3 +86,4 @@ buaji
 sasurji
 sasumaa
 bread
+omlet
