@@ -11,7 +11,7 @@ kurkuraji
 om namah shivay
 akritirani
 giturani
-
+akkurani
 
 
 
