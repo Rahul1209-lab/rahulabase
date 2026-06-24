@@ -66,3 +66,4 @@ samsung
 karinakhan
 laallll
 vivo
+opppo
