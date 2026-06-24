@@ -80,3 +80,4 @@ bhaihojaa
 tired
 night
 resttime
+allokay
