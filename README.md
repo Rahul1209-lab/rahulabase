@@ -33,4 +33,4 @@ maadurga
 kali
 btc
 ethh
-
+solona
